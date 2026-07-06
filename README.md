@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
