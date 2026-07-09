@@ -1,31 +1,34 @@
 class MinStack {
 public:  
-      stack<int>s;
-      multiset<int>st;
+      stack<pair<int, int>> s;
+	int mini;
     MinStack() {
-
+  mini = INT_MAX;
     }
     
-    void push(int value) {
-        s.push(value);
-        st.insert(value);
-        // mini = min(mini,value);
+    void push(int x) {
+        mini = min(x, mini);
+		s.push({x, mini});
     }
     
     void pop() {
-        int el = s.top();
-        st.erase(st.find(el));//erase one ocurence
-        s.pop();
-        // mini = min(mini,el);
+        	s.pop();
+		if (s.empty())
+			mini = INT_MAX;
+		else
+			mini = s.top().second;
     }
     
     int top() {
-        return s.top();
+        	 if (s.empty())
+            return -1;
+        return s.top().first ;
     }
     
     int getMin() {
-      int first = *st.begin();
-      return first;
+      	 if (s.empty())
+            return -1;
+        return s.top().second;
     }
 };
 
