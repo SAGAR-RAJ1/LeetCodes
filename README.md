@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
