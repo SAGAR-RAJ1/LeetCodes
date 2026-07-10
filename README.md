@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0992-subarrays-with-k-different-integers) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
