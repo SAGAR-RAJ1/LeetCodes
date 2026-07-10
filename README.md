@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0904-fruit-into-baskets) |
@@ -138,6 +141,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
