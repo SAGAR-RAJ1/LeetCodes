@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
