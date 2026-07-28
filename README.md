@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
