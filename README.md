@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1683-invalid-tweets) |
