@@ -1,6 +1,6 @@
 WITH cte AS (
     SELECT *,
-           id - ROW_NUMBER() OVER () AS grp
+           id - ROW_NUMBER() OVER (ORDER BY id) AS grp
     FROM Stadium
     WHERE people >= 100
 )
