@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 ## Array
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0992-subarrays-with-k-different-integers) |
 ## Monotonic Stack
 |  |
@@ -253,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
