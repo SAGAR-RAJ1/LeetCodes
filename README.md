@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
@@ -272,5 +274,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
