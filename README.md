@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0904-fruit-into-baskets) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
