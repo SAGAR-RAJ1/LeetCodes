@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
 ## Array
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0283-move-zeroes) |
