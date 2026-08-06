@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
@@ -242,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
