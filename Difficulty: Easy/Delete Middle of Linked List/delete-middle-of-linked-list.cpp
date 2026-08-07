@@ -12,20 +12,17 @@ class Solution {
   public:
     Node* deleteMid(Node* head) {
         // code here
-         if(head==nullptr || head->next==nullptr)return nullptr;
-        Node * slow = head;
-        Node * fast = head;
-
-        fast=fast->next->next;
-
-        while(fast!=nullptr && fast->next!=nullptr){
-              fast=fast->next->next;
-              slow=slow->next;
+        
+        if(!head->next)return nullptr;
+        Node * slow=head;
+        Node * fast = head->next->next;
+        
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-       Node * dlt = slow->next;
-       slow->next=dlt->next;
-       delete(dlt);
-
-       return head;
+        slow->next=slow->next->next;
+        
+        return head;
     }
 };
