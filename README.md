@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0876-middle-of-the-linked-list) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
