@@ -1,39 +1,42 @@
-/* Doubly linked list node class
-class Node
-{
-	public:
-	int data;
-	Node *next, *prev;
-	Node(int val) : data(val), next(NULL), prev(NULL)
-	{
-	}
-};
-*/
+/* Structure of Doubly Linked List Node
+class Node {
+  public:
+    int data;
+    Node *next;
+    Node *prev;
+
+    Node(int val) {
+        data = val;
+        next = nullptr;
+        prev = nullptr;
+    }
+}; */
 
 class Solution {
-	public:
-	vector<pair<int, int>> findPairsWithGivenSum(Node *head, int target) {
-		// code here
-		Node * start = head;
-		Node * end = head;
-		
-		while (end->next != nullptr) {
-			end = end->next;
-		}
-		
-		vector<pair<int, int>> ans;
-		
-		while (start->data<end->data) {
-			int sum = start->data + end->data;
-			if (sum<target) {
-				start = start->next;
-			} else if (sum>target) {
-				end = end->prev;
-			} else {
-				ans.push_back({start->data, end->data}); start = start->next; end = end->prev;
-			}
-		}
-		
-		return ans;
-	}
+  public:
+    vector<vector<int>> givenSumPairs(Node* head, int target) {
+        // code here
+        vector<vector<int>>ans;
+        Node * l = head;
+        while(l->next){
+            l=l->next;
+        }
+        Node * f = head;
+        
+        while(l->data>f->data){
+            
+            int sum =l->data+f->data;
+            
+            if(sum<target){
+                f=f->next;
+            }else if(sum>target){
+                l=l->prev;
+            }else{
+                ans.push_back({f->data,l->data});
+                  f=f->next;l=l->prev;
+            }
+        }
+        
+        return ans;
+    }
 };
