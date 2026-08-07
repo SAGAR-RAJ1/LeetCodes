@@ -297,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0141-linked-list-cycle) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
