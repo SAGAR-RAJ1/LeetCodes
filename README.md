@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0328-odd-even-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0283-move-zeroes) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
