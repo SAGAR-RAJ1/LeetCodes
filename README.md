@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
