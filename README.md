@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
+| [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
+| [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 ## Counting
 |  |
 | ------- |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0494-target-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
