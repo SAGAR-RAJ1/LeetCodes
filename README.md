@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Simulation
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -359,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
