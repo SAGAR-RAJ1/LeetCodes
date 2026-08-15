@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Simulation
 |  |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
