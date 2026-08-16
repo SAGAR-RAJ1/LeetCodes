@@ -1,7 +1,7 @@
 class Solution {
 public:
      vector<vector<int>>dp;
-     int solve(string word1, string word2, int i, int j) {
+     int solve(string & word1, string & word2, int i, int j) {
 
         // base case
 
@@ -24,7 +24,7 @@ public:
                             solve(word1, word2, i - 1, j)});   // delete
         }
     }
-    int minDistance(string word1, string word2) {
+    int minDistance(string& word1, string& word2) {
 
         int m = word1.size();
         int n = word2.size();
