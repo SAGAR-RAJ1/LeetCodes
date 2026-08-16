@@ -5,7 +5,7 @@ public:
 int solve(vector<int>& prices,int i , int buy,int cap) {
        int n = prices.size();
 
-       if(cap==-1)return 0;
+       if(cap==0)return 0;
        if(i==n)return 0;
        if(dp[i][buy][cap]!=-1)return dp[i][buy][cap];
 
@@ -18,8 +18,8 @@ int solve(vector<int>& prices,int i , int buy,int cap) {
 
     int maxProfit(int k, vector<int>& prices) {
           int n = prices.size();
-            dp.assign(n, vector<vector<int>>(2, vector<int>(k, -1)));
-          return solve(prices,0,1,k-1);
+            dp.assign(n, vector<vector<int>>(2, vector<int>(k+1, -1)));
+          return solve(prices,0,1,k);
     }
 };
 
