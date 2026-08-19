@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0601-human-traffic-of-stadium) |
