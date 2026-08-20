@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0601-human-traffic-of-stadium](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1757-recyclable-and-low-fat-products) |
