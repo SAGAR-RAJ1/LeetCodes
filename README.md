@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0307-range-sum-query-mutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0155-min-stack) |
+| [0307-range-sum-query-mutable](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -427,4 +430,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0200-number-of-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
