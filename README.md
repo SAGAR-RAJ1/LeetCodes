@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 ## Array
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
 ## Greedy
 |  |
 | ------- |
