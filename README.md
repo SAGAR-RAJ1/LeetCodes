@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0496-next-greater-element-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0132-palindrome-partitioning-ii) |
+| [0290-word-pattern](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [1092-shortest-common-supersequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1092-shortest-common-supersequence) |
