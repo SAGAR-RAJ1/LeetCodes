@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
 ## Array
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
 ## Simulation
