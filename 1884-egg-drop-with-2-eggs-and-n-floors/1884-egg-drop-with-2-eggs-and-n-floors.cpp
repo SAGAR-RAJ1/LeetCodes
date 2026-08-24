@@ -9,10 +9,23 @@ public:
       if(dp[e][f]!=-1)return dp[e][f];
        
        int ans = INT_MAX;
-      for(int i = 1 ; i<=f ; i++){
-        int temp = 1 + max(solve(e-1,i-1),solve(e,f-i));
-        ans=min(temp,ans);
-      }
+       int i =1 ; int j = f;
+
+       while(i<=j){
+        int mid = i + ( j - i)/2;
+
+        int breaks = solve(e-1,mid-1);
+        int nobreaks = solve(e,f-mid);
+
+        int temp = 1 + max(breaks,nobreaks);
+
+        if(breaks>nobreaks){
+            j=mid-1;
+        }else{
+            i=mid+1;
+        }
+        ans=min(ans,temp);
+       }
 
       return dp[e][f]=ans;
     }
