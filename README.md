@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
+| [0887-super-egg-drop](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1927-sum-game) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0887-super-egg-drop](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0887-super-egg-drop](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1143-longest-common-subsequence) |
