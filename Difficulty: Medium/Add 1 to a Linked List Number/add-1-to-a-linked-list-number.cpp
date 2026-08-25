@@ -12,27 +12,52 @@ public:
 */
 class Solution {
   public:
-    int help(Node * head){
-        if(!head){
-            return 1;
+    Node* reverseList(Node* & head) {
+        if(!head || !head->next)return head;
+
+        Node * curr=head;
+        Node * prev = nullptr;
+
+        while(curr){
+            Node * next = curr->next;
+            curr->next = prev;
+            prev=curr;
+            curr=next;
         }
-        int carry = help(head->next);
-        head->data+=carry;
-        if(head->data<10)return 0;
-        head->data=0;
-        return 1;
+
+        return prev;
     }
     Node* addOne(Node* head) {
         // code here
-        int carry = help(head);
         
-        if(carry){
-            Node* temp = new Node(1);
-            temp->next=head;
-            head=temp;
+       Node * h1 =  reverseList(head);
+       Node * a = h1;
+        
+        int carry = 1;
+        
+        
+        
+        while(h1){
+            int sum = carry+ h1->data;
             
+            if(sum<10){
+                h1->data=sum;
+                carry=0;
+                break;
+            }else{
+                h1->data = 0;
+                carry =1;
+            }
+            h1=h1->next;
         }
-        return head;
+        h1=reverseList(a);
+        if(carry){
+            Node * temp =new Node(1);
+            temp->next = h1;
+            h1=temp;
+        }
+        
+        return h1;
         
     }
 };
