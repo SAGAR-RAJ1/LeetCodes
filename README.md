@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
