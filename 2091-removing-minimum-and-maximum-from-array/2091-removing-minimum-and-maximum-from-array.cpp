@@ -6,16 +6,18 @@ public:
         int minindex = min_element(nums.begin(),nums.end())-nums.begin();
         int maxindex = max_element(nums.begin(),nums.end())-nums.begin();
          
-        int ans = INT_MAX;
+        int ans = 0;
         
-        //if all from left 
-        ans=min(ans,max(minindex,maxindex)+1);
-        //if all from right 
-        ans=min(ans,n-min(minindex,maxindex));
-        //if all from both 
-        int nearleft = 1+min(minindex,maxindex);
-        int nearright =n-max(minindex,maxindex);
-        ans=min(ans,nearleft+nearright);
+        vector<int>value;
+        value.push_back(abs(maxindex-minindex));
+        value.push_back(1+min(maxindex,minindex));
+        value.push_back(n-max(maxindex,minindex));
+
+        sort(value.begin(),value.end());
+
+        ans=value[0]+value[1];
+
+        
 
         return ans;
 
