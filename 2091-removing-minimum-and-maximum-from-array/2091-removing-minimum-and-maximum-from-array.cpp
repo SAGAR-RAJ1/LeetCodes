@@ -1,25 +1,29 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
+
         int n = nums.size();
-        if(n==1)return 1;
-        int minindex = min_element(nums.begin(),nums.end())-nums.begin();
-        int maxindex = max_element(nums.begin(),nums.end())-nums.begin();
-         
-        int ans = 0;
-        
-        vector<int>value;
-        value.push_back(abs(maxindex-minindex));
-        value.push_back(1+min(maxindex,minindex));
-        value.push_back(n-max(maxindex,minindex));
 
-        sort(value.begin(),value.end());
+        int minindex =
+            min_element(nums.begin(), nums.end()) - nums.begin();
 
-        ans=value[0]+value[1];
+        int maxindex =
+            max_element(nums.begin(), nums.end()) - nums.begin();
 
-        
+        multiset<int> value;
+
+        value.insert(abs(maxindex - minindex));
+        value.insert(1 + min(maxindex, minindex));
+        value.insert(n - max(maxindex, minindex));
+
+        auto it = value.begin();
+
+        int ans = *it;
+
+        it++;
+
+        ans += *it;
 
         return ans;
-
     }
 };
