@@ -32,7 +32,7 @@ public:
              count++;
         }
           int n =critical.size();
-        sort(critical.begin(),critical.end());
+        
         if(n<2)return {-1,-1};
 
         int maxi = critical[n-1]-critical[0];
