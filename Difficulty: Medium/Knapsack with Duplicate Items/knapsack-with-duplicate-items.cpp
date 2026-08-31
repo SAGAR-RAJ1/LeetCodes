@@ -2,7 +2,7 @@ class Solution {
   public:
     vector<vector<int>>dp;
     int solve(int W, vector<int> &val, vector<int> &wt,int i){
-
+        if(W==0)return 0;
         if(i<0)return 0;
         if(dp[i][W]!=-1)return dp[i][W];
         int notpick = 0 + solve(W,val,wt,i-1);
