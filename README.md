@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
+| [0541-reverse-string-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0541-reverse-string-ii) |
 | [1092-shortest-common-supersequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1143-longest-common-subsequence) |
