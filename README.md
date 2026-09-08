@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1672-richest-customer-wealth](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1672-richest-customer-wealth) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
+| [1901-find-a-peak-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1920-build-array-from-permutation) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1539-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
+| [1901-find-a-peak-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1901-find-a-peak-element-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
 ## Counting
 |  |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0994-rotting-oranges) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1672-richest-customer-wealth](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
