@@ -1,13 +1,11 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-
-        arr=[0]*26
-
+        m={}
         for ch in s:
-            arr[ord(ch)-ord('a')]+=1
+            m[ch]=m.get(ch,0)+1
+        
         for i in range(0,len(s)):
-            if arr[ord(s[i])-ord('a')]==1:
+            if(m.get(s[i])==1):
                 return i
         return -1
-
         
