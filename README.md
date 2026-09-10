@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
 | [1901-find-a-peak-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1920-build-array-from-permutation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -617,4 +619,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
