@@ -1,15 +1,21 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int ans = 0;
+        vector<int>last(3,-1);
+        int right = 0;
+        int ans=0;
         int n = s.size();
-        int lastseen[3] = {-1,-1,-1};
 
-        for(int i = 0; i< n ; i++){
-           lastseen[s[i]-'a']=i;
+        while(right<n){
 
-           ans+=1+min({lastseen[0],lastseen[1],lastseen[2]});
+            last[s[right]-'a']=right;
+
+            if(last[0]>=0 && last[1]>=0 && last[2]>=0){
+               ans+=1+min({last[0],last[1],last[2]});
+            }
+           right++;
+
         }
-        return ans; 
+        return ans;
     }
 };
