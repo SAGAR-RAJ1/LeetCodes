@@ -1,19 +1,18 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        ans=[]
         st=deque()
         m={}
 
         for a in reversed(nums2):
 
-            while st and a>=st[-1]:
+            while st and st[-1]<=a:
                 st.pop()
             if st:
                 m[a]=st[-1]
             else:
                 m[a]=-1
             st.append(a)
-
-        for a in nums1:
-            ans.append(m[a])
+        ans=[]
+        for i in range(0,len(nums1)):
+            ans.append(m[nums1[i]])
         return ans
