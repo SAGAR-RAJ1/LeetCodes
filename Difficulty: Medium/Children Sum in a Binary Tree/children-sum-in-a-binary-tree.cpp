@@ -11,27 +11,21 @@ public:
 
 class Solution {
   public:
-  bool ans = true;
-  
-  void solve(Node * root){
-      
-      if(!root)return ;if(!root->left && !root->right)
-                       return;
-      int sum= 0 ;
-      if(root->left)sum+=root->left->data;
-      if(root->right)sum+=root->right->data;
-      
-      if(root->data!=sum)ans=false;
-      
-      solve(root->left);
-      solve(root->right);
-      
-  }
+    bool solve(Node * root){
+        if(!root)return true;
+        if(!root->left && !root->right)return true;
+        if(!solve(root->left) || !solve(root->right))return false;
+        
+        int l = 0,r=0;
+        if(root->left)l=root->left->data;
+         if(root->right)r=root->right->data;
+         
+         if(root->data != (l+r))return false;
+         return true;
+    }
     bool isSumProperty(Node *root) {
         // code here
+        return solve(root);
         
-        solve(root);
-        return ans;
-     
     }
 };
