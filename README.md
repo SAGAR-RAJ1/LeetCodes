@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -656,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
