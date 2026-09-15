@@ -27,7 +27,7 @@ public:
         while (!q.empty()) {
 
             int s = q.size();
-            ans++;
+
             for (int i = 0; i < s; i++) {
                 int r = q.front().first;
                 int c = q.front().second;
@@ -46,6 +46,7 @@ public:
                     }
                 }
             }
+            ans++;
         }
         cout << fresh;
         if (fresh != 0)
