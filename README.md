@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1106-parsing-a-boolean-expression) |
 | [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1143-longest-common-subsequence) |
