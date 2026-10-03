@@ -1,18 +1,20 @@
 class Solution:
-    def maxProfit(self, arr):
+    def maxProfit(self, prices):
         # code here
-        n=len(arr)
+        n=len(prices)
         dp=[[-1]*2 for i in range(n)]
-        def solve(i,buy):
-            if i==n:
+        
+        def solve(index,buy):
+            if index>=n:
                 return 0
-            if dp[i][buy]!=-1 :
-                return dp[i][buy]
+            if dp[index][buy]!=-1 :
+                return dp[index][buy]
             if buy:
-                dp[i][buy]=max(solve(i+1,1),-arr[i]+solve(i+1,0))
-                return dp[i][buy]
+                dp[index][buy]=max(solve(index+1,1),-prices[index]+solve(index+1,0))
             else:
-                dp[i][buy]=max(solve(i+1,0),arr[i]+solve(i+1,1))
-                return dp[i][buy]
+                dp[index][buy]=max(solve(index+1,0),prices[index]+solve(index+1,1))
+            return dp[index][buy]
         
         return solve(0,1)
+                
+                
