@@ -1,22 +1,22 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        q=deque()
-        n=len(s)
-        for ch in s:
-            if ch=='(' or ch=='[' or ch=='{' :
-                q.append(ch)
+        st=deque()
+        for i in s:
+            if i=='{' or i=='[' or i=='(':
+                st.append(i)
             else:
-                if len(q)==0:
+                if len(st)==0:
                     return False
-                
-                if q[-1]=='(' and ch==')' :
-                    q.pop()
-                elif q[-1]=='[' and ch==']' :
-                    q.pop()
-                elif q[-1]=='{' and ch=='}' :
-                    q.pop()
+                if st[-1]=='{' and i=='}':
+                    st.pop()
+                elif st[-1]=='[' and i==']':
+                    st.pop()
+                elif st[-1]=='(' and i==')':
+                    st.pop()
                 else:
                     return False
-        if len(q)!=0:
+        if len(st)!=0:
             return False
         return True
+                
+        
