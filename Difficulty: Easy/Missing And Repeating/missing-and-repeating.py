@@ -5,16 +5,17 @@ class Solution:
         freq={}
         for x in arr:
             freq[x]=freq.get(x,0)+1
-        ans=[0,0]
-        for i in range(1,n+1):
-            
-            if i not in freq:
-                ans[1]=i
-            else:
-                if freq[i]>1:
-                    ans[0]=i
         
-        return ans
+        find=-1
+        notfind=-1
+        for i in range(1,n+1):
+            if i in freq:
+                if freq[i]==2:
+                    find=i
+            else:
+                notfind=i
+        
+        return [find,notfind]
                 
             
 
