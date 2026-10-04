@@ -3,7 +3,7 @@ class Solution:
         check=1
         if num==1:
             return False
-        end=int(num**0.5)+1
+        end=int(sqrt(num))+1
         for i in range(2,end):
             if num%i==0:
                 check+=i
