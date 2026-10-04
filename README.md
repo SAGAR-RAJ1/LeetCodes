@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0507-perfect-number) |
 | [0887-super-egg-drop](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
