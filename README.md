@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1672-richest-customer-wealth](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1672-richest-customer-wealth) |
 | [1818-minimum-absolute-sum-difference](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1818-minimum-absolute-sum-difference) |
+| [1854-maximum-population-year](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1854-maximum-population-year) |
 | [1901-find-a-peak-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0992-subarrays-with-k-different-integers) |
+| [1854-maximum-population-year](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1854-maximum-population-year) |
 ## Monotonic Stack
 |  |
 | ------- |
