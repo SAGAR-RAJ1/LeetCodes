@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0541-reverse-string-ii) |
+| [0845-longest-mountain-in-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0735-asteroid-collision) |
+| [0845-longest-mountain-in-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0845-longest-mountain-in-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0845-longest-mountain-in-array) |
 | [0887-super-egg-drop](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1092-shortest-common-supersequence) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0845-longest-mountain-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## DP on Trees
 |  |
