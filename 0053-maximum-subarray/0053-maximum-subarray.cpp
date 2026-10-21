@@ -8,9 +8,7 @@ public:
         for(int i = 0 ; i<n; i++){
              sum+=nums[i];
              ans=max(ans,sum);
-              while(l<=i && sum<0){
-                sum-=nums[l];l++;
-              }
+             if(sum<0)sum=0;
              
         }
         return ans;
