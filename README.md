@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
