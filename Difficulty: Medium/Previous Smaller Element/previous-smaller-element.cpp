@@ -2,21 +2,24 @@ class Solution {
   public:
     vector<int> prevSmaller(vector<int>& arr) {
         //  code here
-        stack<int>s;
-        vector<int>ans;
+        int n = arr.size();
+        vector<int>ans(n);
         
-        for(auto &a:arr){
+        stack<int>s;
+        
+        for(int i = 0;  i<n;i++){
             
-            while(!s.empty() && a<=s.top())s.pop();
+            while(!s.empty() && s.top()>=arr[i])s.pop();
             
             if(s.empty()){
-                ans.push_back(-1);
+                ans[i]=-1;
             }else{
-                 ans.push_back(s.top());
+                ans[i]=s.top();
             }
             
-            s.push(a);
+            s.push(arr[i]);
         }
+        
         
         return ans;
     }
