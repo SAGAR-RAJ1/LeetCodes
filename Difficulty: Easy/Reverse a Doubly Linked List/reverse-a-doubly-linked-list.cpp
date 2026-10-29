@@ -17,18 +17,23 @@ class Solution {
   public:
     Node *reverse(Node *head) {
         // code here
-        Node * curr= head;
+        Node * curr = head;
         Node * prev = nullptr;
         
-        while(curr){
-            Node * next = curr->next;
-            
-            curr->next=prev;
-            curr->prev=next;
+        if(!head->next)return head;
+        
+        while(curr!=nullptr){
+            curr->prev = curr->next;
+            curr->next = prev;
             prev=curr;
-            curr=next;
+            curr=curr->prev;
+            
+    
         }
         
+        
         return prev;
+        
+        
     }
 };
