@@ -11,23 +11,23 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-
         if(!head || !head->next)return head;
-        ListNode * odd = head;
+
+        ListNode * oddcurr = head;
         ListNode * oddhead = head;
-        ListNode * even= head->next;
-        ListNode * evenhead= head->next;
+        ListNode * evencurr = head->next;
+        ListNode * evenhead = head->next;
 
+        while(evencurr && evencurr->next){
 
-        while(even && even->next){
-              odd->next=odd->next->next;
-              even->next=even->next->next;
+            oddcurr->next=oddcurr->next->next;
+            evencurr->next=evencurr->next->next;
 
-              odd=odd->next;
-              even=even->next;
+            oddcurr=oddcurr->next;
+            evencurr=evencurr->next;
         }
-        odd->next=evenhead;
+
+        oddcurr->next=evenhead;
         return oddhead;
-        
     }
 };
