@@ -1,39 +1,31 @@
 class Solution {
-	public:
-	vector<int> reducePairs(vector<int>& arr) {
-		stack<int> s;
-		
-		for (int x : arr) {
-			
-			while (!s.empty() &&
-			((s.top() > 0 && x < 0) ||
-			(s.top() < 0 && x > 0))) {
-				
-				if (abs(s.top()) > abs(x)) {
-					x = s.top();
-					s.pop();
-				}
-				else if (abs(s.top()) < abs(x)) {
-					s.pop();
-				}
-				else {
-					s.pop();
-					x = 0;
-					break;
-				}
-			}
-			
-			if (x != 0)
-				s.push(x);
-		}
-		
-		vector<int> ans(s.size());
-		
-		for (int i = ans.size() - 1; i >= 0; i--) {
-			ans[i] = s.top();
-			s.pop();
-		}
-		
-		return ans;
-	}
+  public:
+    vector<int> reducePairs(vector<int>& arr) {
+        // code here
+        int n = arr.size();
+        stack<int>s;
+        
+        for(int i =0 ; i<n; i++){
+            
+            if(s.empty() || (s.top()<0 && arr[i]<0) || (s.top()>0 && arr[i]>0)){
+                s.push(arr[i]);
+            }else{
+                while(!s.empty() && abs(s.top())<abs(arr[i]))s.pop();
+                
+                if(!s.empty() && abs(s.top())==abs(arr[i])){
+                    s.pop();
+                    continue;
+                }
+                if(s.empty())s.push(arr[i]);
+            }
+        }
+        vector<int>ans;
+        while(!s.empty()){
+            ans.push_back(s.top());
+            s.pop();
+        }
+        
+        reverse(ans.begin(),ans.end());
+        return ans;
+    }
 };
