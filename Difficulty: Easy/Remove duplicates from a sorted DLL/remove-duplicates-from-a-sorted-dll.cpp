@@ -15,22 +15,20 @@ class Solution {
   public:
     Node* removeDuplicates(Node* head) {
         // code here
-     Node *  temp = head->next;
-     Node * ref = head;
-     
-     while(temp != nullptr){
-         
-         while(temp != nullptr && temp->data == ref->data)temp=temp->next;
-         
-         if(temp==nullptr)break;
-         
-         ref->next=temp;
-         temp->prev= ref;
-         ref=temp;
-     }
-     
-     ref->next=nullptr;
-     
-     return head;
+        
+        if(!head->next)return head;
+        
+        Node * temp = head->next;
+        Node * curr = head;
+        while(temp){
+            if(temp->data != curr->data){
+                curr->next=temp;
+                curr=temp;
+            }
+            temp=temp->next;
+        }
+        curr->next=nullptr;
+        return head;
+        
     }
 };
