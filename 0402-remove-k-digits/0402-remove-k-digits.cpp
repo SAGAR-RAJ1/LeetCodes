@@ -1,47 +1,36 @@
 class Solution {
 public:
-    string removeKdigits(string arr, int k) {
-        int n = arr.size();
+    string removeKdigits(string num, int k) {
+        
+        stack<char>s;
+        int n = num.size();
+        if(k==n)return "0";
 
-        stack<char> s;
-
-        for (int i = 0; i < n; i++) {
-            while (!s.empty() && s.top() > arr[i] && k > 0) {
-                s.pop();
-                k--;
-            }
-
-            s.push(arr[i]);
-        }
-        while (!s.empty() && k > 0) {
-
-            s.pop();
-
-            k--;
+        for(int i = 0 ; i<n ; i++){
+            while(!s.empty() && k>0 && s.top()>num[i])s.pop(),k--;
+            s.push(num[i]);
         }
 
-        int size = s.size();
+        while(k>0 && !s.empty())k--,s.pop();
+        
         string ans = "";
-        while (!s.empty()) {
-
-            ans += s.top();
-
+        while(!s.empty()){
+            ans+=s.top();
             s.pop();
         }
 
-        reverse(ans.begin(), ans.end());
+        reverse(ans.begin(),ans.end());
 
-        // Remove leading zeros
-
-        int i = 0;
-
-        while (i < ans.size() && ans[i] == '0') {
-
-            i++;
+        int i = 0 ;
+        for(; i<ans.size();i++){
+            if(ans[i]!='0')break;
         }
 
-        ans = ans.substr(i);
+        ans=ans.substr(i);
+         
+         if(ans.size()==0)return "0";
+         return ans;
 
-        return ans.empty() ? "0" : ans;
+
     }
 };
