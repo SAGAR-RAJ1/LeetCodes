@@ -1,4 +1,4 @@
-/*
+/* 
 class Node {
   public:
     int data;
@@ -10,34 +10,34 @@ class Node {
         left = nullptr;
         right = nullptr;
     }
-};
-*/
+}; */
 
 class Solution {
   public:
     vector<int> topView(Node *root) {
         // code here
-       //  verticle  node 
-       map<int,int>m;
-       queue<pair<int,Node*>>q;
-       q.push({0,root});
-       
-       while(!q.empty()){
-           int v = q.front().first;
-           auto node = q.front().second;
-           q.pop();
-           
-           if(m.find(v)==m.end()){
-               m[v]=node->data;
-           }
-           
-           if(node->left)q.push({v-1,node->left});
-           if(node->right)q.push({v+1,node->right});
-       }
-       vector<int>ans;
-       for( auto &a:m){
-           ans.push_back(a.second);
-       }
-       return ans;
+        //vertical  node
+        map<int,int>m;
+        vector<int>ans;
+        
+        queue<pair<Node*,int>>q;
+        q.push({root,0});
+        while(!q.empty()){
+            int ver = q.front().second;
+            auto node =q.front().first;
+            q.pop();
+            
+            if(m.find(ver)==m.end()){
+                m[ver]=node->data;
+            }
+            
+            if(node->left)q.push({node->left,ver-1});
+            if(node->right)q.push({node->right,ver+1});
+        }
+        
+        for(auto &[u,v]:m){
+            ans.push_back(v);
+        }
+        return ans;
     }
 };
