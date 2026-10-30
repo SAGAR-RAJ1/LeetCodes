@@ -9,46 +9,51 @@
  */
 class Solution {
 public:
-    unordered_map<TreeNode* , TreeNode*>m;
+    unordered_map<TreeNode*,TreeNode*>parent;
+    void findp(TreeNode * root){
+        if(root==nullptr)return;
 
-    void parent(TreeNode * root){
-
-        if(!root)return ;
-        if(root->left)m[root->left]=root;
-        if(root->right)m[root->right]=root;
-        parent(root->left);
-        parent(root->right);
-    }
-
-    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        
-        vector<int>ans;
-        unordered_map<TreeNode*,int>visited;
-        parent(root);
-        queue<pair<TreeNode*,int>>q;
-        q.push({target,0});
-        visited[target]=1;
-        while(!q.empty()){
-            auto node = q.front().first;
-            int dist=q.front().second;
-            q.pop();
-            
-            if(dist==k)ans.push_back(node->val);
-            if(dist>k)continue;
-
-            if(node->left && visited[node->left]!=1){
-                q.push({node->left,dist+1});
-                visited[node->left]=1;
-            }
-            if(node->right && visited[node->right]!=1){
-                q.push({node->right,dist+1});
-                visited[node->right]=1;
-            }
-            if(m[node] && visited[m[node]]!=1){
-                q.push({m[node],dist+1});
-                visited[m[node]]=1;
-            }
+        if(root->left){
+            parent[root->left]=root;
         }
+        if(root->right){
+            parent[root->right]=root;
+        }
+        findp(root->left);
+        findp(root->right);
+    }
+    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+        vector<int>ans;
+        unordered_map<TreeNode*,bool>visited;
+         
+        queue<TreeNode*>q;
+        int level = 0;
+        findp(root);
+
+        q.push(target);
+        visited[target]=true;
+
+        while(!q.empty()){
+          int s = q.size();
+          for(int i = 0 ; i<s;i++){
+            auto node = q.front();
+            q.pop();
+            if(node->left && !visited[node->left]){
+                q.push(node->left);visited[node->left]=true;
+            }
+            if(node->right && !visited[node->right]){
+                q.push(node->right);visited[node->right]=true;
+            }
+            if(parent[node] && !visited[parent[node]]){
+                q.push(parent[node]);visited[parent[node]]=true;
+            }
+            if(level==k)ans.push_back(node->val);
+          }
+          level++;
+          if(level>k)break;
+        }
+
         return ans;
+
     }
 };
