@@ -25,9 +25,9 @@ public:
             auto node = q.top();
             q.pop();
 
-            ListNode* neww= new ListNode(node.first);
-            temp->next = neww;
-            temp=neww;
+           
+            temp->next = node.second;
+            temp=temp->next;
 
             if(node.second->next){
                 q.push({node.second->next->val,node.second->next});
