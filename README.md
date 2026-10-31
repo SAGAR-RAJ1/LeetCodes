@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2008-maximum-earnings-from-taxi](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2008-maximum-earnings-from-taxi) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2965-find-missing-and-repeated-values](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Database
 |  |
 | ------- |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0994-rotting-oranges) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Complete Knapsack
 |  |
 | ------- |
