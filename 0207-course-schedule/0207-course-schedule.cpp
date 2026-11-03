@@ -1,44 +1,41 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>>adj(numCourses);
+    bool dfs(int node , vector<vector<int>>&adj,vector<int>&visited,vector<int>&pathvisited){
 
-        for (auto &pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]); // edge: pre[1] -> pre[0]
-        }
+        visited[node]=1;
+        pathvisited[node]=1;
 
-        queue<int>q;
-
-        vector<int>indegree(numCourses,0);
-
-        for(int i = 0; i<numCourses;i++){
-
-            for(auto &it : adj[i]){
-                indegree[it]++;
-            }
-
-        }
-
-        for(int i = 0 ; i<numCourses;i++){
-            if(indegree[i]==0){
-                q.push(i);
+        for(auto&a:adj[node]){
+            if(visited[a]==0){
+                if(!dfs(a,adj,visited,pathvisited))return false;
+            }else{
+                if(pathvisited[a])return false;
             }
         }
 
-        vector<int>topo;
+         pathvisited[node]=0;
+       
+        return true;
+    }
+   
+    bool canFinish(int n, vector<vector<int>>& prerequisites) {
+        vector<vector<int>>adj(n);
 
-        while(!q.empty()){
-           auto node =q.front();
-           q.pop();
-           topo.push_back(node);
-           for(auto &a:adj[node]){
-            indegree[a]--;
-            if(indegree[a]==0)q.push(a);
-           }
+        for(auto &a:prerequisites){
+            adj[a[1]].push_back(a[0]);
         }
+        
+         vector<int>visited(n,0);
+         vector<int>pathvisited(n,0);
+
+         for(int i = 0 ; i<n ; i++){
+            if(visited[i]==0){
+                if(!dfs(i,adj,visited,pathvisited))return false;;
+            }
+         }
          
-         if(topo.size()!=numCourses)return false;
-
+        
          return true;
+
     }
 };
