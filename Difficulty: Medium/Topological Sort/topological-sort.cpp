@@ -1,41 +1,40 @@
 class Solution {
-  public:
-    vector<int>visited;
-    stack<int>s;
-    
-    void solve(int i, vector<vector<int>>& adj){
-        
-        visited[i]=1;
-        
-        for(auto &a:adj[i]){
-            if(visited[a]==0){
-                solve(a,adj);
-            }
-        }
-        
-        s.push(i);
-        return;
-    }
-    vector<int> topoSort(int V, vector<vector<int>>& edges) {
-        // code here
-        vector<int>ans;
-        vector<vector<int>>adj(V);
-        
-        for(auto &a:edges){
-            adj[a[0]].push_back(a[1]);
-        }
-        visited.assign(V,0);
-        
-        for(int i = 0 ;i<V ; i++){
-            if(visited[i]==1)continue;
-            solve(i,adj);
-        }
-        
-        while(!s.empty()){
-            ans.push_back(s.top());
-            s.pop();
-        }
-        
-        return ans;
-    }
+	public:
+	void dfs(int node, vector<vector<int>> & adj, vector<int>&visited, stack<int>&s) {
+		
+		visited[node] = 1;
+		
+		for (auto &a:adj[node]) {
+			if (visited[a] == 0) {
+				dfs(a, adj, visited, s);
+			}
+		}
+		
+		s.push(node);
+		return;
+	}
+	vector<int> topoSort(vector<vector<int>> & adj) {
+		// code here
+		
+		int v = adj.size();
+		
+		vector<int>ans;
+		stack<int>s;
+		vector<int>visited(v, 0);
+		
+		for (int i = 0; i < v; i++) {
+			
+			if (visited[i] == 0) {
+				
+				dfs(i, adj, visited, s);
+				
+			}
+			
+		}
+		while (!s.empty()) {
+			ans.push_back(s.top()); s.pop();
+		}
+		
+		return ans;
+	}
 };
