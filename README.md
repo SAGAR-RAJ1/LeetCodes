@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1020-number-of-enclaves) |
 | [1094-car-pooling](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1020-number-of-enclaves) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1672-richest-customer-wealth](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1901-find-a-peak-element-ii) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Complete Knapsack
 |  |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Indexed Tree
 |  |
