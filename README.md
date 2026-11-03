@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0733-flood-fill) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Indexed Tree
 |  |
@@ -718,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SAGAR-RAJ1/LeetCodes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
