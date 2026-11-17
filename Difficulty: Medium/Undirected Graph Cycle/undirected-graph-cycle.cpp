@@ -1,30 +1,31 @@
 class Solution {
   public:
-    bool dfs(int node,int parent,vector<int>&visited,vector<vector<int>>& adj){
+    bool dfs(vector<int>& visited,vector<vector<int>>& adj , int node , int parent){
         
         visited[node]=1;
+        
         for(auto &a:adj[node]){
             if(visited[a]==0){
-           if(dfs(a,node,visited,adj))return true;
-            }else if(a!=parent){
-                return true;
+                if(dfs(visited,adj,a,node))return true;
+            }else{
+                if(a!=parent)return true;
             }
         }
+        
         return false;
         
     }
     bool isCycle(vector<vector<int>>& adj){
         // Code here
+        int v = adj.size();
+        vector<int>visited(v,0);
         
-        int m = adj.size();
-        
-        vector<int>visited(m,0);
-        
-        for(int i = 0 ; i<m;i++){
+        for(int i = 0 ; i<v;i++){
             if(visited[i]==0){
-                if(dfs(i,-1,visited,adj))return true;
+                if(dfs(visited,adj,i,-1))return true;
             }
         }
+        
         return false;
     }
 };
