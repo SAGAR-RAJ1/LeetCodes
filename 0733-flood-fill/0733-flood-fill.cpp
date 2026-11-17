@@ -15,11 +15,13 @@ public:
         if(prev==color)return image;
 
         while(!q.empty()){
-            int r = q.front().first;
-            int c = q.front().second;
+
+            auto r = q.front().first;
+            auto c = q.front().second;
+
             q.pop();
-            
-            for(int i = 0; i<4 ;i++){
+
+            for(int i = 0 ; i<4;i++){
                 int nr = r+dr[i];
                 int nc = c+dc[i];
 
@@ -28,8 +30,8 @@ public:
                     q.push({nr,nc});
                 }
             }
-           
         }
+
         return image;
     }
 };
