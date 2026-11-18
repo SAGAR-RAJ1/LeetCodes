@@ -13,31 +13,28 @@ public:
 
         queue<pair<int,pair<int,int>>>q;
         vector<int>dist(n,1e9);
-
+        dist[src]=0;
         q.push({0,{src,0}});
-
-
         while(!q.empty()){
-            int stops = q.front().first;
-            int node = q.front().second.first;
-            int currdist = q.front().second.second;
-            q.pop();
+           
+           int steps = q.front().first;
+           int node = q.front().second.first;
+           int d = q.front().second.second;
+ 
+           q.pop();
+           if(steps>k)continue;
 
-            if(stops>k)continue;
-
-            for(auto &a:adj[node]){
-                int child = a.first;
-                int d = a.second;
-
-                if(stops<=k && currdist+d<dist[child]){
-                    dist[child]=currdist+d;
-                    q.push({stops+1,{child,dist[child]}});
-                }
-
-                
+           for(auto &a:adj[node]){
+            int adjnode = a.first;
+            int wt = a.second;
+            if(wt+d<dist[adjnode] && steps<=k){
+                q.push({steps+1,{adjnode,wt+d}});
+                dist[adjnode]=wt+d;
             }
+           }
         }
+
         if(dist[dst]==1e9)return -1;
-        return dist[dst];
-    }
+        return dist[dst]
+;    }
 };
